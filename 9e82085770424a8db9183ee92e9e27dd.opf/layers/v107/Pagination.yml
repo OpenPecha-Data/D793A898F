@@ -2400,25 +2400,25 @@ annotations:
     reference: ''
     span:
       start: 478448
-      end: 480367
+      end: 480516
   a303ff4999634227ad1fad29681440e9:
     imgnum: 367
     reference: ''
     span:
-      start: 480369
-      end: 482578
+      start: 480518
+      end: 482727
   75bf02fdb47f4c75b8e2055a2b7af049:
     imgnum: 368
     reference: ''
     span:
-      start: 482580
-      end: 484799
+      start: 482729
+      end: 484948
   21e0fedfa607446980cea894e26aed01:
     imgnum: 369
     reference: ''
     span:
-      start: 484801
-      end: 486365
+      start: 484950
+      end: 486514
   f981cbfcea6649edad350a5845b451da:
     imgnum: 370
     reference: ''
